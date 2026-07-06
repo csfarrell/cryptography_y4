@@ -1,7 +1,7 @@
-# cryptography_y4
+# Cryptography & Security Protocols
 Cryptography projects for year 4 of Comsci
 
-Assignment1.java
+## Assignment1.java
 Symmetric File Encryption Using Password and Salt
 3 week long assignment to perform symmetric encryption of a file using the block cipher AES, in which:
 - The key is derived from a password and a salt.
@@ -17,7 +17,7 @@ Symmetric File Encryption Using Password and Salt
 This assignment was completed on time and to a high standard
 Mark: 15/15
 
-Assignment2.java
+## Assignment2.java
 Digital Signature Using ElGamal
 3 week long assignment to perform a digital signature using the ElGamal signature scheme
 - Given a prime modulus p and generator g
